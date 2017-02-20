@@ -1,8 +1,5 @@
-
-
 function deaf_grandma(speech) {
-	
-	if (
+	console.log(speech);
 };
 
 var words = prompt("What ya want to say to grandma?");
